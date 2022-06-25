@@ -1,1 +1,0 @@
-Docker image script_container - number 96 = SUCESS!!
